@@ -1,0 +1,1 @@
+{"database":{"rules":"database.rules.json"},"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"storage":{"rules":"storage.rules"},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"cafeteria-instituto","configurations":{"web":"1:511856634071:web:58ab9ac51bec28872ea892","windows":"1:511856634071:web:27f4cfad9e3ade712ea892"}}}}}}
